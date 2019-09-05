@@ -1,0 +1,24 @@
+USE [PartnerGroup]
+GO
+
+/****** Object:  Table [dbo].[Marca]    Script Date: 04/09/2019 21:07:17 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Marca](
+	[MarcaID] [uniqueidentifier] ROWGUIDCOL  NOT NULL,
+	[Nome] [varchar](100) NOT NULL,
+ CONSTRAINT [PK_Marca] PRIMARY KEY CLUSTERED 
+(
+	[MarcaID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+ALTER TABLE [dbo].[Marca] ADD  CONSTRAINT [DF_Marca_MarcaID]  DEFAULT (newid()) FOR [MarcaID]
+GO
+
+

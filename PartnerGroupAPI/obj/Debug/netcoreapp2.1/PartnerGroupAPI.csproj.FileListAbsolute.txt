@@ -1,0 +1,16 @@
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\obj\Debug\netcoreapp2.1\PartnerGroupAPI.csproj.CoreCompileInputs.cache
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\obj\Debug\netcoreapp2.1\PartnerGroupAPI.RazorAssemblyInfo.cache
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\obj\Debug\netcoreapp2.1\PartnerGroupAPI.RazorAssemblyInfo.cs
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\obj\Debug\netcoreapp2.1\PartnerGroupAPI.AssemblyInfoInputs.cache
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\obj\Debug\netcoreapp2.1\PartnerGroupAPI.AssemblyInfo.cs
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\bin\Debug\netcoreapp2.1\PartnerGroupAPI.deps.json
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\bin\Debug\netcoreapp2.1\PartnerGroupAPI.runtimeconfig.json
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\bin\Debug\netcoreapp2.1\PartnerGroupAPI.runtimeconfig.dev.json
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\bin\Debug\netcoreapp2.1\PartnerGroupAPI.dll
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\bin\Debug\netcoreapp2.1\PartnerGroupAPI.pdb
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\bin\Debug\netcoreapp2.1\PartnerGroupAPI.Views.dll
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\obj\Debug\netcoreapp2.1\PartnerGroupAPI.RazorTargetAssemblyInfo.cache
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\obj\Debug\netcoreapp2.1\PartnerGroupAPI.dll
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\obj\Debug\netcoreapp2.1\PartnerGroupAPI.pdb
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\obj\Debug\netcoreapp2.1\PartnerGroupAPI.csproj.CopyComplete
+C:\Users\djife\Source\repos\PartnerGroupAPI\PartnerGroupAPI\obj\Debug\netcoreapp2.1\PartnerGroupAPI.csprojAssemblyReference.cache
